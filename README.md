@@ -1,0 +1,2 @@
+# mydiary
+my diary journal.
